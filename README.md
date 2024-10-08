@@ -1,1 +1,1 @@
-Código del libro Learning Python -5th edition- por Mark Lutz.
+Código del libro _Learning Python -5th edition-_ por Mark Lutz y _Python Notes for Professionals, free programming books_ de [GoalKicker.com](https://goalkicker.com/)
