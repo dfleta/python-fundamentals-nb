@@ -24,7 +24,7 @@ Para eliminar los metadatos de un _jupyter notebook_ instala el paquete [nb-clea
 
 `source venv/bin/activate`
 
-`pip install requirementents.txt`
+`pip install -r requirementents.txt`
 
 
 En mi caso, preservo las salidas de las celdas puesto que me interesa dejarlas en seguimiento `git`, ya que forman parte de la documentación. El resto de metadatos, sobretodo el número de ejecuciones de la celda, las elimino para evitar cambios en el _index_.
